@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :woman_technologist: About Me :
+ :woman_technologist: About Me :
 I am a Software Engineer who loves taking on new challenges, learning new technologies and providing innovative solutions to daily business challenges through the use of technological tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
